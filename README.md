@@ -2,7 +2,7 @@
 
 
   [twitter]: https://twitter.com/Abhishe45397838
-  [linkedin]: https://www.linkedin.com/in/abhishek-dixit-719079170
+  [linkedin]: https://www.linkedin.com/in/abhishek-165/
   [github]: https://github.com/Abhishek-165
   [instagram]: https://instagram.com/theviewfinder_abhi/
   [facebook]: https://www.facebook.com/profile.php?id=100008862796480
