@@ -2,12 +2,12 @@
 
 # 💫About Me :
 🔭 I’m currently working on Flutter <br>
-🌱 I’m currently learning Flutter, Firestore, Python and Java
-👯 I’m looking to collaborate on Youtube
-🤔 I’m looking for help with Cyber Security
-💬 Ask me about Flutter and Python
-📫 How to reach me: Twitter:- @Abhishe45397838
-⚡ Hobby: Photography and Flute
+🌱 I’m currently learning Flutter, Firestore, Python and Java <br>
+👯 I’m looking to collaborate on Youtube <br>
+🤔 I’m looking for help with Cyber Security <br>
+💬 Ask me about Flutter and Python <br>
+📫 How to reach me: Twitter:- @Abhishe45397838 <br>
+⚡ Hobby: Photography and Flute <br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Abhishek-Dixit/100008862796480/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/theviewfinder_abhi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-165) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@abhishek_165) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Abhishe45397838) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/c/CyberneticMasters) 
